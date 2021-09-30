@@ -3,7 +3,7 @@
 
 This is a space where I share my projects & case studies, as well as resources I found useful in learning everything about data 📊. 
 
-### 🙋‍♀️  About Me 
+### 🙋‍♀️  About 
 - 💰 Program manager using data to increase funding revenue.
 - 👩‍🎓 Enrolling in Master of Data Analytics at UHD.
 - 🚀 Love to create awesome data visualizations and learn new skillset. Self-taught in SQL and Python. 
@@ -18,7 +18,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [Cyclistic Bike-Share Data Cleaning and Analysis in R](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 - [Cyclistic Bike-Share Presentation and Visualization in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
 
-### 📫 Contact Me
+### 📫 Contact 
 - Open to internships and job opportunites in data analytics field.
 - [Send me an email](mailto:xtenix@gmail.com)
 
