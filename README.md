@@ -7,7 +7,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - 💰 Program manager using data to increase funding revenue.
 - 👩‍🎓 Enrolling in Master of Data Analytics at UHD.
 - 🚀 Love to create awesome data visualizations and learn new skillset. Self-taught in SQL and Python. 
-- 📸 WPJA award-winning wedding and portrait photographer. [View my portfolio here](https://www.1314studio.net/houston).
+- 📸 WPJA award-winning wedding and portrait photographer. [View my photography here](https://www.1314studio.net/houston).
 
 
 ### 📈  Skills 
