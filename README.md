@@ -14,7 +14,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - Tools: Python, R, SQL, Tableau, Excel, Photoshop, DaVinci Resolve.
 - Skills: Data Analysis, Wrangling, Visualization, Image and Video Editing.
 
-### 📂 Portfolio
+### 📂 Projects
 - [Cyclist Bike-Share Data Cleaning and Analysis in R](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 - [Cyclist Bike-Share Presentation and Visualization in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
 
