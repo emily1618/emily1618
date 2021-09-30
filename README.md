@@ -19,7 +19,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [Cyclistic Bike-Share Presentation and Visualization in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
 
 ### 📫 Contact 
-- Open to internships and job opportunites in data analytics field.
+- Open to internships and job opportunites in data analytics and creative field.
 - [Send me an email](mailto:xtenix@gmail.com)
 
 <!--
