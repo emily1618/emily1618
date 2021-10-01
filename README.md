@@ -22,7 +22,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [Delicious Dessert in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R)
 
 ### 📫 Contact 
-- Open to internships and job opportunites in data analytics and creative field.
+- Open to internships and job opportunites in the data field.
 - [Send me an email](mailto:xtenix@gmail.com)
 
 <!--
