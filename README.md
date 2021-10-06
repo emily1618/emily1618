@@ -16,6 +16,7 @@ This is a space where I share my projects & case studies, as well as resources I
 ### 📂 Projects
 - [Cyclistic Bike-Share Data Cleaning and Analysis in R](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 - [Cyclistic Bike-Share Presentation and Visualization in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
+- [Bellabeat Fitness Data Cleaning and Analysis in R](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) - Editing...
 
 ### 🎲 Statistics
 - [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R)
