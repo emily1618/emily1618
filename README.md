@@ -1,4 +1,4 @@
-### Hi there! My name is Emily. Welcome to my github page
+### Hi there! My name is Emily. Welcome to my github page.
 #
 
 This is a space where I share my projects & case studies, as well as resources I found useful in learning everything about data 📊. 
