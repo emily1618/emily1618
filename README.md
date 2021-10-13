@@ -23,5 +23,5 @@ This is a space where I share my projects & case studies, as well as resources I
 - [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R)
 
 ### 📫 Contact
-- Open to internships and job opportunities in the data field.
 - [Send me an email](mailto:xtenix@gmail.com)
+- [Kaggle Account]https://www.kaggle.com/emilyliang8/
