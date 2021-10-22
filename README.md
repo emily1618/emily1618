@@ -21,7 +21,7 @@ This is a space where I share my projects & case studies, as well as resources I
 
 ### 🎲 Statistics 
 - [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
-- [Linear Regression Model Improvement and Leverage Points](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
+- [SLR Model, Model Improvement, Leverage Points/Outliers, Confidence Level, and Prediction Intervals](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
 ### 📫 Contact
 - [Send me an email](mailto:xtenix@gmail.com)
