@@ -20,7 +20,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [Cyclistic Bike-Share Presentation and Visualization in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
 
 ### 🎲 Statistics
-- [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R)
+- [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [Linear Regression Model Improvement and Leverage Points](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
 ### 📫 Contact
