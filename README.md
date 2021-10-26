@@ -22,7 +22,7 @@ This is a space where I share my projects & case studies, as well as resources I
 
 ### 🎲 Statistics
 - [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
-- [Regression Models Analysis](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
+- [Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
 ### 📫 Contact
 - [Send me an email](mailto:xtenix@gmail.com)
