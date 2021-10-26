@@ -6,7 +6,7 @@ This is a space where I share my projects & case studies, as well as resources I
 ### 🙋‍♀️  About
 - 👩‍🎓 Enrolling in Master of Data Analytics at UHD.
 - 💰 Program manager using data to increase funding revenue.
-- 📸 WPJA award-winning wedding and portrait photographer. [View my photography here](https://www.1314studio.net/houston).
+- 📸 WPJA award-winning photographer. [View my photography here](https://www.1314studio.net/houston).
 
 
 ### 📈  Skills
