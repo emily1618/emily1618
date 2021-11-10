@@ -20,7 +20,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [Cyclistic Bike-Share Presentation and Visualization in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
 - [Data Portfolio in R, Python and Tableau](https://github.com/xtenix88/Data-Portfolio)
 
-### 🎲 Statistics
+### 🎲 Statistics and Models
 - [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
