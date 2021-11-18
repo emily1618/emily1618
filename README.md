@@ -14,6 +14,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - Skills: Data Analysis, Wrangling, Visualization, Image and Video Editing.
 
 ### 📂 Projects
+- [Solving a Business Problem for a Non-Profit Organization](https://github.com/xtenix88/Data-Portfolio/tree/main/Live-Case-Study)......Ongoing
 - [Bellabeat Fitness Data Cleaning and Analysis](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [Bellabeat Fitness Data Presentation and Dashboard in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/BellabeatFitnessDataAnalysis-GoogleDataAnalyticsCapstone/Story1)
 - [Cyclistic Bike-Share Data Cleaning and Analysis](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
