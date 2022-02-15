@@ -19,7 +19,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [Python: Seeking Additional Funding in Non-Profit Sector]
 
 ### 💻 Machine Learning and Statistics Projects
-- [Python: Predicting Cancer with KNN]
+- [Python: Classifying Flow Pattern with KNN Model](https://github.com/xtenix88/Data-Portfolio/blob/main/KNN-Classifier-Model.ipynb)
 - [R: BAking a Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [R: Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
