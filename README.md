@@ -20,8 +20,8 @@ This is a space where I share my projects & case studies, as well as resources I
 
 ### 💻 Machine Learning and Statistics Projects
 - [Python: Predicting Cancer with KNN]
-- [R: Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
-- [R: Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
+- [R: BAking a Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
+- [R: Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
 ### 📫 Contact
 - [Send me an email](mailto:xtenix@gmail.com)
