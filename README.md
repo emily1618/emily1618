@@ -14,7 +14,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [**R + Tableau:** How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [**SQL + R + Tableau:** Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 - [**Python:** Extracting Interesting Data for Texas from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
-- [**SQL + Tableau:** Exploring 2021 Covid World Data](https://github.com/xtenix88/Data-Portfolio/blob/main/Covid_Portfolio_Project.sql) 
+- [**SQL + Tableau:** Exploring 2021 Covid World Data](https://github.com/xtenix88/SQL/blob/main/Covid_Portfolio_Project.sql) 
 
 ### 🍩 Personal and 💸 Investing Projects
 - [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Portfolio](https://github.com/xtenix88/Data-Portfolio/blob/main/Investment.ipynb)
