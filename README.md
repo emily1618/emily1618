@@ -12,17 +12,17 @@ This is a space where I share my projects & case studies, as well as resources I
 
 ### 📊 Data Projects 
 - [**R + Tableau:** How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
-- [SQL + R + Tableau: Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
-- [Python: Extracting Interesting Data for Texas from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
+- [**SQL + R + Tableau:** Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
+- [**Python:** Extracting Interesting Data for Texas from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
 
 ### 🍩 Personal and 💸 Investing Projects
-- [Python: Trading with Ichimoku Cloud and Finding the Optimal Portfolio]
-- [Python: Seeking Additional Funding in Non-Profit Sector]
+- [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Portfolio]
+- [**Python:** Seeking Additional Funding in Non-Profit Sector]
 
 ### 💻 Machine Learning and Statistics Projects
-- [Python: Classifying Flow Pattern with KNN Model](https://github.com/xtenix88/Data-Portfolio/blob/main/KNN-Classifier-Model.ipynb)
-- [R: BAking a Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
-- [R: Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
+- [**Python:** Classifying Flow Pattern with KNN Model](https://github.com/xtenix88/Data-Portfolio/blob/main/KNN-Classifier-Model.ipynb)
+- [**R:** Baking a Delicious Dessert in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
+- [**R:** Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
 ### 📫 Contact
 - [Send me an email](mailto:xtenix@gmail.com)
