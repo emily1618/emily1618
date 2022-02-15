@@ -16,7 +16,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [**Python:** Extracting Interesting Data for Texas from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
 
 ### 🍩 Personal and 💸 Investing Projects
-- [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Portfolio]
+- [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Portfolio](https://github.com/xtenix88/Data-Portfolio/blob/main/Investment.ipynb)
 - [**Python:** Seeking Additional Funding in Non-Profit Sector]
 
 ### 💻 Machine Learning and Statistics Projects
