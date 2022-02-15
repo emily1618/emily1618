@@ -13,7 +13,7 @@ This is a space where I share my projects & case studies, as well as resources I
 ### 📊 Data Projects 
 - [R + Tableau: How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [SQL + R + Tableau: Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
-- [Python: Checking Interesting Data for the Texas Area from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
+- [Python: Extracting Interesting Data for Texas from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
 
 ### 🍩 Personal and 💸 Investing Projects
 - [Python: Trading with Ichimoku Cloud and Finding the Optimal Portfolio]
