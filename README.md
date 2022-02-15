@@ -11,8 +11,9 @@ This is a space where I share my projects & case studies, as well as resources I
 - 📸 WPJA award-winning photographer. [View my photography here](https://www.1314studio.net/houston).
 
 ### 📊 Data Projects 
-- [R + Tableau: How to Improve Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
+- [R + Tableau: How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [SQL + R + Tableau: Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
+- [Python: Checking Interesting Data for the Texas Area from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
 
 ### 🍩 Personal and 💸 Investing Projects
 - [Python: Trading with Ichimoku Cloud and Finding the Optimal Portfolio]
