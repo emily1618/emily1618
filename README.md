@@ -8,7 +8,7 @@ This is a space where I share my projects & case studies, as well as resources I
 ### 🙋‍♀️  About
 - 👩‍🎓 Enrolling in Master of Data Analytics.
 - 💰 Program manager using data to increase funding revenue.
-- 📸 WPJA award-winning photographer. [View my photography here](https://www.1314studio.net/houston).
+- 📸 [WPJA award-winning wedding photographer](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
 
 ### 📊 Data Projects 
 - [**R + Tableau:** How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
