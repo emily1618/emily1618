@@ -14,8 +14,7 @@ This is a space where I share my projects & case studies, as well as resources I
 
 ### 🍩 Personal and 💸 Investing Projects
 - [Python: Trading with Ichimoku Cloud and Finding the Optimal Portfolio]
-- [R: Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
-- [R: Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
+- [Python: Seeking Additional Funding in Non-Profit Sector]
 
 ### 💻 Machine Learning and Statistics Projects
 - [Predicting Cancer with KNN]
