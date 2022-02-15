@@ -27,3 +27,4 @@ This is a space where I share my projects & case studies, as well as resources I
 ### 📫 Contact
 - [Send me an email](mailto:xtenix@gmail.com)
 - [Kaggle Account](https://www.kaggle.com/emilyliang8/)
+- [My Tableau](https://public.tableau.com/app/profile/emily.liang7497)
