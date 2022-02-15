@@ -12,7 +12,7 @@ This is a space where I share my projects & case studies, as well as resources I
 - [R + Tableau: How to Improve Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [SQL + R + Tableau: Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 
-### 🍩 Personal and Investing Projects
+### 🍩 Personal and 💸 Investing Projects
 - [Python: Trading with Ichimoku Cloud and Finding the Optimal Portfolio]
 - [R: Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [R: Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
