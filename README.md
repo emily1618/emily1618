@@ -10,8 +10,8 @@ This is a space where I share my projects & case studies, as well as resources I
 
 
 ### 📈  Skills
-- Tools: Python, R, SQL, Tableau, Excel, Photoshop, DaVinci Resolve.
-- Skills: Data Analysis, Wrangling, Visualization, Image and Video Editing.
+- Tools: Python, R, MySQL, Tableau, Excel, Photoshop, DaVinci Resolve.
+- Skills: Data Cleaning, Analysis, Visualization, Image and Video Editing.
 
 ### 📂 Projects
 - [Solving a Business Problem for a Non-Profit Organization](https://github.com/xtenix88/Data-Portfolio/tree/main/Live-Case-Study)......Ongoing
