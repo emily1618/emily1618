@@ -8,22 +8,16 @@ This is a space where I share my projects & case studies, as well as resources I
 - 💰 Program manager using data to increase funding revenue.
 - 📸 WPJA award-winning photographer. [View my photography here](https://www.1314studio.net/houston).
 
+### 📂 Data Projects 
+- [R + Tableau: Bellabeat Fitness Data Cleaning and Analysis](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
+- [SQL + R + Tableau: Cyclistic Bike-Share Data Cleaning and Analysis](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 
-### 📈  Skills
-- Tools: Python, R, MySQL, Tableau, Excel, Photoshop, DaVinci Resolve.
-- Skills: Data Cleaning, Analysis, Visualization, Image and Video Editing.
-
-### 📂 Projects
-- [Solving a Business Problem for a Non-Profit Organization](https://github.com/xtenix88/Data-Portfolio/tree/main/Live-Case-Study)......Ongoing
-- [Bellabeat Fitness Data Cleaning and Analysis](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
-- [Bellabeat Fitness Data Presentation and Dashboard in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/BellabeatFitnessDataAnalysis-GoogleDataAnalyticsCapstone/Story1)
-- [Cyclistic Bike-Share Data Cleaning and Analysis](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
-- [Cyclistic Bike-Share Presentation and Visualization in Tableau](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
-- [Data Portfolio in R, Python and Tableau](https://github.com/xtenix88/Data-Portfolio)
-
-### 🎲 Statistics and Models
+### 🎲 Investment and Statistics Projects
 - [Delicious Desserts in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
+- 
+### 🎲 Machine Learning Projects
+- [Predicting Cancer with KNN]
 
 ### 📫 Contact
 - [Send me an email](mailto:xtenix@gmail.com)
