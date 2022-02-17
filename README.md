@@ -17,8 +17,8 @@ This is a space where I share my projects & case studies, as well as resources I
 - [**SQL + Tableau:** Exploring 2021 Covid World Data and Creating a Simple Dashboard](https://github.com/xtenix88/SQL) 
 
 ### 🥰 Personal Projects
-- [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/blob/main/Investment.ipynb)
-- [**Python:** Seeking Additional Funding in Non-Profit Sector]
+- [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
+- [**Python:** Seeking Additional Funding in Non-Profit Sector]-Coming Soon
 
 ### 💻 Machine Learning and Statistics Projects
 - [**Python:** Classifying Flow Pattern with KNN Model](https://github.com/xtenix88/Statistics-and-Models/blob/main/KNN_ML_Model.ipynb)
