@@ -13,7 +13,7 @@
 
 ### 🥰 Personal Projects
 - [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
-- [**Python:** Seeking Additional Funding in Non-Profit Sector]-Coming Soon
+- [**SQL + Python + Tableau:** Securing Fundings For Non-Profit Using Storytelling Visualizations]-Coming Soon
 
 ### 💻 Machine Learning and Statistics Projects
 - [**Python:** Classifying Flow Pattern with KNN Model](https://github.com/xtenix88/Statistics-and-Models/blob/main/KNN_ML_Model.ipynb)
