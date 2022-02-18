@@ -12,7 +12,7 @@
 - [**SQL + Tableau:** Exploring 2021 Covid World Data and Creating a Simple Dashboard](https://github.com/xtenix88/SQL) 
 
 ### 🥰 Personal Projects
-- [**Python:** Trading with Ichimoku Cloud and Finding the Optimal Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
+- [**Python:** Trading with Ichimoku Cloud and Building a Optimal Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
 - [**SQL + Python + Tableau:** Securing Fundings For Non-Profit Using Storytelling Visualizations]-Coming Soon
 
 ### 💻 Machine Learning and Statistics Projects
