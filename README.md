@@ -5,15 +5,15 @@
 - 💰 Program manager using data to increase funding revenue.
 - 📸 [WPJA award-winning wedding photographer](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
 
-### 🥰 Personal Projects
-- [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
-- [**SQL + Python + Tableau:** Securing Fundings For Non-Profit Using Storytelling Visualizations]-Coming Soon
-
 ### 📊 Data Projects 
 - [**R + Tableau:** How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [**SQL + R + Tableau:** Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
 - [**Python:** Extracting Interesting Data for Texas from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
 - [**SQL + Tableau:** Exploring 2021 Covid World Data and Creating a Simple Dashboard](https://github.com/xtenix88/SQL) 
+
+### 🥰 Personal Projects
+- [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
+- [**SQL + Python + Tableau:** Securing Fundings For Non-Profit Using Storytelling Visualizations]-Coming Soon
 
 ### 💻 Machine Learning and Statistics Projects
 - [**Python:** Classifying Flow Pattern with KNN Model](https://github.com/xtenix88/Statistics-and-Models/blob/main/KNN_ML_Model.ipynb)
