@@ -13,7 +13,7 @@
 ### 🥰 Personal Projects
 - [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
 - [**SQL + Python + Tableau:** Securing Fundings For Non-Profit Using Storytelling Visualizations]-Coming Soon
-- 
+
 
 ### 📊 Data Projects 
 - [**R + Tableau:** How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
