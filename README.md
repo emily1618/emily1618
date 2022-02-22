@@ -20,7 +20,7 @@
 - [**R:** Baking a Delicious Dessert in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [**R:** Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
-### 📫 Contact
-- [Send me an email](mailto:xtenix@gmail.com)
+### 📫 Source and Contact
+- [Interview Cheatsheet for Data Analyst Jobs](https://github.com/xtenix88/Data-Portfolio/blob/main/interview_cheatsheet.md#machine-learning)
 - [Kaggle Account](https://www.kaggle.com/emilyliang8/)
 - [My Tableau](https://public.tableau.com/app/profile/emily.liang7497)
