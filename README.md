@@ -4,11 +4,11 @@
 - 👩‍🎓 Enrolling in Master of Data Analytics.
 - 💰 Program manager using data to increase funding revenue.
 - 📸 [WPJA award-winning wedding photographer](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
-- 
+
 
 ### 👍 Useful Resources
-- [Interview Cheatsheet for Data Analyst Jobs](https://github.com/xtenix88/Data-Portfolio/blob/main/interview_cheatsheet.md#machine-learning)
-- 
+- [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/xtenix88/Data-Portfolio/blob/main/interview_cheatsheet.md#machine-learning)
+
 
 ### 🥰 Personal Projects
 - [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
