@@ -6,7 +6,7 @@
 - [WPJA award-winning wedding photographer](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
 
 
-### 👍 Useful Resources
+### 👍 Resources
 - [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/xtenix88/Data-Portfolio/blob/main/interview_cheatsheet.md#machine-learning)
 
 
