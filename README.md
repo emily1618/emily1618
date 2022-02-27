@@ -12,7 +12,7 @@
 
 ### 🌟 Personal Projects
 - [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
-- [**Excel + SQL + Python + Tableau:** Increase Funding and Enrollment For a Houston Non-Profit Using Data Insight and Visualizations]() - Updating
+- [**Excel + SQL + Python + Tableau:** Increase Funding and Enrollment For a Houston Non-Profit Using Data Insight and Visualizations]- Updating
 
 
 ### 📊 Data Projects 
