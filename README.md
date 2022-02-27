@@ -6,10 +6,6 @@
 - [WPJA award-winning wedding photographer](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
 
 
-### 🔖 Resources
-- [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/xtenix88/Data-Portfolio/blob/main/interview_cheatsheet.md#machine-learning)
-
-
 ### 🌟 Personal Projects
 - [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
 - [**Excel + SQL + Python + Tableau:** Increase Funding and Enrollment For a Houston Non-Profit Using Data Insight and Visualizations]- Updating
@@ -26,6 +22,10 @@
 - [**Python:** Use the K-NN Machine Learning Algorithm to Classify Single Cell RNA-SEQ in Glioblastoma Patients](https://github.com/xtenix88/Statistics-and-Models/blob/main/KNN-Model/KNN-Patient-Early-Dectection-Emily.ipynb)
 - [**R:** Baking a Delicious Dessert in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [**R:** Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
+
+
+### 🔖 Resources
+- [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/xtenix88/Data-Portfolio/blob/main/interview_cheatsheet.md#machine-learning)
 
 
 ### 📫 Kaggle and Tableau
