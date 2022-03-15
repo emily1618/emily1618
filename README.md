@@ -25,7 +25,7 @@
 
 
 ### 🔖 Resources
-- [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/emily1618/Data-Portfolio/blob/main/Resources/interview_cheatsheet.md)
+- [Interview Cheatsheet for Entry Level Data Analyst Jobs](https://github.com/emily1618/Data-Portfolio/blob/main/CHEATSHEET/README.md)
 
 
 ### 📫 Kaggle and Tableau
