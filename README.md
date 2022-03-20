@@ -19,7 +19,7 @@
 
 
 ### 💻 Machine Learning and Statistics Projects
-- [**Python:** Use the K-NN Machine Learning Algorithm to Classify Single Cell RNA-SEQ in Glioblastoma Patients](https://github.com/xtenix88/Statistics-and-Models/blob/main/KNN-Model/KNN-Patient-Early-Dectection-Emily.ipynb)
+- [**Python:** Use Decision Tree Machine Learning Algorithm to Classify Single Cell RNA-SEQ in Glioblastoma Patients](https://github.com/emily1618/Statistics-and-Models/tree/main/Decision-Tree)
 - [**R:** Baking a Delicious Dessert in plot3D](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Dessert)
 - [**R:** Exploring Regression Models and Data Transformation](https://github.com/xtenix88/Statistical-Learning-in-R/tree/main/Regression)
 
