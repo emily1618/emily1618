@@ -14,7 +14,7 @@
 ### 📊 Data Projects 
 - [**R + Tableau:** How to Increase Market Share with Bellabeat Fitness Data](https://github.com/xtenix88/Google-Data-Analytics-Bellabeat-Case-Study) 
 - [**SQL + R + Tableau:** Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/xtenix88/Google-Data-Analytic-Capstone)
-- [**Python:** Extracting Interesting Data for Texas from the 2021 Stackoveflow Survey](https://github.com/xtenix88/Data-Portfolio/blob/main/Stackoverflow_Survey_Data_Cleaning.ipynb)
+- [**Python:** Product Sales Data Analysis](https://github.com/emily1618/Data-Portfolio/blob/main/EDA/Products_Sales_Analysis.ipynb)
 - [**SQL + Tableau:** Exploring 2021 Covid World Data and Creating a Simple Dashboard](https://github.com/xtenix88/SQL) 
 
 
