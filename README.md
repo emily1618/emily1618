@@ -3,7 +3,6 @@
 ### 👩‍🎓 About
 - Enrolling in Master of Data Analytics.
 - Program manager using data to increase funding revenue.
-- [WPJA award-winning wedding photographer](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
 
 
 ### 🌟 Personal Projects
