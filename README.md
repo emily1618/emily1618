@@ -8,7 +8,7 @@
 
 ### 🌟 Personal Projects
 - [**Python:** Trading with Ichimoku Cloud and Building an Efficient Stock Portfolio](https://github.com/xtenix88/Data-Portfolio/tree/main/Investing)
-- [**Excel + Python + Tableau:** Increase Funding For a Houston Non-Profit Using Data Insight](https://github.com/emily1618/Data-Portfolio/blob/main/CEAP/README.md)
+- [**Excel + Python + Tableau:** Increase Funding For a Houston Non-Profit Using Data Insight](https://github.com/emily1618/Data-Portfolio/tree/main/CEAP)
 - [SQL + Python + Tableau: Increase Enrollment For a Houston Non-Profit Using Data Insight](https://github.com/emily1618/Data-Portfolio/tree/main/FOC) - Updating
 
 ### 📊 Data Projects 
