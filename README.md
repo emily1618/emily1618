@@ -2,7 +2,7 @@
 
 ### 👩‍🎓 About
 - Enrolling in Master of Data Analytics.
-- Program manager using data to increase funding revenue.
+- Data Analyst in utility sector. 
 - In the past, I enjoyed [capturing moments at people's weddings](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
 
 
