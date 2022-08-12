@@ -2,7 +2,7 @@
 
 ### 👩‍🎓 About
 - Enrolling in Master of Data Analytics.
-- Data Analyst in utility sector. 
+- Working on predictive and prescriptive machine learning projects.
 - In the past, I enjoyed [capturing moments at people's weddings](https://www.wpja.com/wedding-photojournalism/wedding-photographers-houston-tx/emily-liang).
 
 
