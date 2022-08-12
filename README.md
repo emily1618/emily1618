@@ -31,4 +31,4 @@
 
 ### 📫 Kaggle and Tableau
 - [Kaggle Account](https://www.kaggle.com/emilyliang8/)
-- [My Tableau](https://public.tableau.com/app/profile/emily.liang7497)
+- [My Tableau](https://public.tableau.com/app/profile/emily1618)
