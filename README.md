@@ -1,5 +1,3 @@
-## Hi there! My name is Emily. Welcome to my Github.
-
 ### 👩‍🎓 About
 - Enrolling in Master of Data Analytics.
 - Working on predictive and prescriptive machine learning projects.
